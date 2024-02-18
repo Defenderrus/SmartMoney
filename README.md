@@ -1,4 +1,4 @@
 # SmartMoney
-Budget Planning Application - SmartMoney
-Supported Platforms: PC (Windows).
-Languages: Russian, English (soon).
+Budget Planning Application - SmartMoney\n
+Supported Platforms: PC (Windows).\n
+Languages: Russian, English (soon).\n
