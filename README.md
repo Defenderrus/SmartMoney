@@ -1,5 +1,6 @@
 # SmartMoney
 ### Free Budget Planning Application
-##### Description:
-###### Supported Platforms: PC (Windows).
-###### Languages: Russian, English (soon).
+##### **Description**:
+###### Version: v1.0
+###### Supported Platforms: PC (Windows)
+###### Languages: Russian, English (soon)
