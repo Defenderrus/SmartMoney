@@ -4,4 +4,4 @@
 ###### Python Version: 3.12.0
 ###### Supported Platforms: PC (Windows)
 ###### Languages: Russian, English (soon)
-untitled.xlsx is an example of loading data from an Excel file
+###### Example of loading data from an Excel file: untitled.xlsx
